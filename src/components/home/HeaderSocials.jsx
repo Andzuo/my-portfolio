@@ -2,7 +2,7 @@ import React from "react"
 
 const HeaderSocials = () => {
   return (
-    <div className="flex gap-x-7 m-2 text-4xl mt-10 mb-10">
+    <div className="flex gap-x-7 m-2 text-4xl ">
         <a className="text-blue-200 duration-75 hover:text-green-300" href="https://instagram.com/andzuo" target="_blanck">
         <i class="fa-brands fa-instagram"></i>
         </a>

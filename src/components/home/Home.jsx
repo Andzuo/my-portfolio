@@ -8,7 +8,7 @@ const Home = () => {
     <section className='relative min-h-screen flex items-center justify-center'>
       <div className='flex flex-col items-center max-w-xl text-center'>
         <img className='w-64 rounded-full h-full mb-8' src={Me} alt="minha ft" />
-        <h1 className='font-extrabold text-5xl mb-4 text-blue-200'>Anderson Medeiros</h1>
+        <h1 className='font-extrabold text-5xl text-blue-200'>Anderson Medeiros</h1>
         <span>I'm a Back-End Developer</span>
 
         <HeaderSocials/>
